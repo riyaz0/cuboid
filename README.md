@@ -14,4 +14,5 @@ Orientation:
 The largest face (5.0m x 2.0m) is the base for maximum stability.
 
 First architecture file will give co-ordinates of all bricks along with orientation x,y,z.
-Second excel
+Second Brick_coordinates python will take co-ordinates from already ran architecture file and store it in the excel file.
+The same excel file is used to visualize the cuboid using the co-ordinates of the file
